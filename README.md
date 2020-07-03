@@ -10,7 +10,7 @@ desafio práticos semanais, simulando a realidade do mercado.
 O <strong> AceleraDev Java </strong> é a aceleração que foca todo seu conteúdo no backend em Java, desde 
 criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 
-<h5>Desafios</h5>
+<h3>Desafios</h3>
 
 <strong>Módulo 1</strong>
 
