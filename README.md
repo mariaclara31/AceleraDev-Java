@@ -32,3 +32,8 @@ criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 <ul>
 	<li><a href="https://github.com/mariaclara31/Calculador-de-Classes">Utilitário - Calculador de Atributos de Classe</a></li>
 </ul>
+
+<strong>Módulo 4</strong>
+<ul>
+	<li><a href="https://github.com/mariaclara31/ORM-Java">Criando Entidades de Banco de Dados em Java</a></li>
+</ul>
