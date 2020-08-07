@@ -12,7 +12,7 @@ criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 
 <h3>Desafios</h3>
 
-<strong>Módulo 1</strong>
+<strong>Módulo 1 - Introdução a Linguagem Java</strong>
 
 <ul>
 	<li><a href="https://github.com/mariaclara31/Fibonacci">Fibonacci</a></li>
@@ -20,7 +20,7 @@ criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 	<li><a href="https://github.com/mariaclara31/Calculadora-Salario-Liquido">Calculadora Salário Líquido</a></li>
 </ul>
 
-<strong>Módulo 2</strong>
+<strong>Módulo 2 - Programação Orientada a Objetos I</strong>
 
 <ul>
 	<li><a href="https://github.com/mariaclara31/Gerenciador-de-Time">Gerenciador de Times de Futebol</a></li>
@@ -28,12 +28,25 @@ criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 	<li><a href="https://github.com/mariaclara31/Media-Moda-e-Mediana">Média, Moda e Mediana</a></li>
 </ul>
 	
-<strong>Módulo 3</strong>
+<strong>Módulo 3 - Programação Orientada a Objetos II</strong>
 <ul>
 	<li><a href="https://github.com/mariaclara31/Calculador-de-Classes">Utilitário - Calculador de Atributos de Classe</a></li>
 </ul>
 
-<strong>Módulo 4</strong>
+<strong>Módulo 4 - Modelagem de Banco de Dados Relacional</strong>
 <ul>
 	<li><a href="https://github.com/mariaclara31/ORM-Java">Criando Entidades de Banco de Dados em Java</a></li>
 </ul>
+
+<strong>Módulo 5 - Manipulação de Banco de Dados Relacional</strong>
+<ul>
+	<li><a href="https://github.com/mariaclara31/Manipulando-Entidades">Criando e Manipulando Entidades de Banco de Dados com Spring</a></li>
+	<li><a href="https://github.com/mariaclara31/OrderService">Order Service</a></li>
+</ul>
+
+<strong>Módulo 6 - Criação de API's Rest</strong>
+<ul>
+	<li><a href="https://github.com/mariaclara31/SpringWeb">Criando Endpoints com Spring</a></li>
+	<li><a href="https://github.com/mariaclara31/Gerador-de-frases-do-Monty-Python">Gerador de Frases do Monty Python Utilizando SpringBoot e JPA</a></li>
+</ul>
+
