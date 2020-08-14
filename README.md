@@ -57,5 +57,5 @@ criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 
 <strong>Módulo 8 - Git, Boas Práticas e Clean Code</strong>
 <ul>
-	<li><a href="https://github.com/mariaclara31/Refatorando-Formas-de-Pagamento>Refatorando Formas de Pagamento</a></li>
+	<li><a href="https://github.com/mariaclara31/Refatorando-Formas-de-Pagamento">Refatorando Formas de Pagamento</a></li>
 </ul>
