@@ -50,3 +50,12 @@ criação de API até banco de dados, com testes JUnit, Hibernate e Spring.
 	<li><a href="https://github.com/mariaclara31/Gerador-de-frases-do-Monty-Python">Gerador de Frases do Monty Python Utilizando SpringBoot e JPA</a></li>
 </ul>
 
+<strong>Módulo 7 - Documentação de API's Rest  </strong>
+<ul>
+	<li><a href="https://github.com/mariaclara31/Java-OAuth2">OAuth2 com Spring</a></li>
+</ul>
+
+<strong>Módulo 8 - Git, Boas Práticas e Clean Code</strong>
+<ul>
+	<li><a href="https://github.com/mariaclara31/Refatorando-Formas-de-Pagamento>Refatorando Formas de Pagamento</a></li>
+</ul>
